@@ -84,7 +84,7 @@ The JavaScript handles:
 Add screenshots or GIFs here.
 
 ```md
-![Game Preview](./assets/preview.png)
+![image alt](https://github.com/dev-akash-60/Tic-Tac-Toe/blob/main/Screenshot%20tic%20tac%20toe%20game.png?raw=true)
 ```
 
 ---
